@@ -1,0 +1,1 @@
+This is file 3 added to feature branch. I will be deleted. Please add me to master or main branch.
